@@ -49,6 +49,7 @@ Hi there! I'm **Yağız Kaan**, a dreamer who lives through code. I develop web 
 ## 📫 Contact Me
 
 📧 **Email:** yagiz.info0411@gmail.com  
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/yağız-kaan-kılınç-aba2a033b/
 
 📁 **GitHub:** https://github.com/kaanyagizkilinc
