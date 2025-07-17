@@ -57,3 +57,11 @@ Hi there! I'm **Yağız Kaan**, a dreamer who lives through code. I develop web 
 ---
 
 > 💬 “Coding is not just a job; it’s shaping dreams, goals, and love into reality.”
+
+
+## 📊 My Github Status 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=baykaan&show_icons=true&theme=github_dark&locale=en" alt="Yağız Kaan's GitHub Stats" /> </p>
+
+
+## Top Languages on Github
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baykaan&layout=compact&theme=github_dark" alt="Top Languages" /> </p>
