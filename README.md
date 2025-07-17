@@ -1,4 +1,4 @@
-# 👨‍💻 Bay Kaan | Junior Software Developer
+# 👨‍💻 Yağız Kaan Kılınç | Junior Software Developer
 
 Merhaba! Ben **Yağız Kaan**, yazılımla yaşayan bir hayalciyim. ASP.NET MVC ile web uygulamaları geliştiriyor, Unity ile oyunlar tasarlıyorum. Lise Yazılım bölümü öğrencisiyim ve dijital oyun tasarımı okuyorum. Kendimi geliştiriyor, freelance projeler yapıyor ve sektöre sağlam bir giriş yapmak istiyorum.
 
