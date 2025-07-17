@@ -60,5 +60,5 @@ Hi there! I'm **Yağız Kaan**, a dreamer who lives through code. I develop web 
 
 
 ## 📊 My Github Status
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kaanyagizkilinc&show_icons=true&theme=github_dark&locale=en" alt="Yağız Kaan's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanyagizkilinc&layout=compact&theme=github_dark" alt="Top Languages" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kaanyagizkilinc&show_icons=true&theme=github_dark&locale=en" alt="Yağız Kaan's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanyagizkilinc&layout=compact&theme=github_dark" alt="Top Languages" /></p>
 
