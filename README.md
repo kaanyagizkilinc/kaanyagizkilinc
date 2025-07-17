@@ -1,20 +1,20 @@
 # 👨‍💻 Yağız Kaan Kılınç | Junior Software Developer
 
-Merhaba! Ben **Yağız Kaan**, yazılımla yaşayan bir hayalciyim. ASP.NET MVC ile web uygulamaları geliştiriyor, Unity ile oyunlar tasarlıyorum. Lise Yazılım bölümü öğrencisiyim ve dijital oyun tasarımı okuyorum. Kendimi geliştiriyor, freelance projeler yapıyor ve sektöre sağlam bir giriş yapmak istiyorum.
+Hi there! I'm **Yağız Kaan**, a dreamer who lives through code. I develop web applications using ASP.NET MVC and design games with Unity. I am currently a high school software student, studying digital game design. I'm constantly learning, building freelance projects, and aiming for a strong entry into the software industry.
 
 ---
 
-## 🎯 Hedeflerim
+## 🎯 My Goals
 
-- ASP.NET MVC ve Unity alanlarında uzmanlaşmak  
-- Freelance işler ile deneyim kazanmak  
-- Sevgilimle birlikte küçük ama işlevli bir kafe açmak 
-- Dijital oyun dünyasında kendi projelerimi yayınlamak
-- Senyor yazılımcı olabilmek.  
+- To specialize in ASP.NET MVC and Unity  
+- To gain hands-on experience through freelance projects  
+- To open a small but functional café with my girlfriend ☕  
+- To publish my own projects in the digital game world  
+- To become a senior software developer 👨‍💻  
 
 ---
 
-## 🧰 Kullandığım Teknolojiler
+## 🧰 Technologies I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -30,29 +30,28 @@ Merhaba! Ben **Yağız Kaan**, yazılımla yaşayan bir hayalciyim. ASP.NET MVC 
 
 ---
 
-## 📌 Öne Çıkan Projeler
+## 📌 Featured Projects
 
-- 🔹 **Dinamik İletişim Formu**  
-  ASP.NET Core ve jQuery ile geliştirilen, kullanıcı + okul + medya eşleştirme ve güncelleme özelliği olan form sistemi.
+- 🔹 **Dynamic Contact Form**  
+  A contact form system built with ASP.NET Core and jQuery, featuring dynamic user + school + media data matching and updates.
 
-- 🔹 **Sosyal Emdya Botları**  
-  Python ile geliştirilen küçük ama işlevli Chatbot ve Veri Botları.
+- 🔹 **Social Media Bots**  
+  Lightweight yet functional bots developed with Python for chatting and data collection purposes.
 
-- 🔹 **Humanoid İnsansı Araç**  
-  Çoklu motor kontrolü ve de Tübikat 4060 2.liğine kavuştuğumuz basit çaplı humanoid projesi.
+- 🔹 **Humanoid Prototype Vehicle**  
+  A basic humanoid robot project with multi-motor control, which won 2nd place in TÜBİTAK 4060 Robotics Competition.
 
--🔹 **S2022-2023 FRC HUNTERS 9264 Technisyenlik**  
-  Frist R. C. uluslar Arası Hunter 9264 Takımında Winner Ödülü.
-  
----
-
-## 📫 Bana Ulaş
-
-📧 **E-posta:** yagiz.info0411@mail.com  
-🔗 **LinkedIn:** [linkedin.com/in/yağız-kaan-kılınç-aba2a033b]([#]https://www.linkedin.com/in/ya%C4%9F%C4%B1z-kaan-k%C4%B1l%C4%B1n%C3%A7-aba2a033b/)  
-📁 **GitHub:** [github.com/kaanyagizkilinc]([#](https://github.com/kaanyagizkilinc))
+- 🔹 **FRC HUNTERS 9264 (2022–2023)**  
+  Technician role in the internationally recognized FIRST Robotics Competition team "Hunters 9264" – Winner Award recipient.
 
 ---
 
-> 💬 “Kod yazmak sadece iş değil; hayalleri, hedefleri ve sevgiyi şekillendirmektir.”
+## 📫 Contact Me
 
+📧 **Email:** example@mail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/yağız-kaan-kılınç-aba2a033b/
+📁 **GitHub:** https://github.com/kaanyagizkilinc
+
+---
+
+> 💬 “Coding is not just a job; it’s shaping dreams, goals, and love into reality.”
